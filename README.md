@@ -59,6 +59,3 @@ The project is set up to reference `RhinoCommon` and other libraries via NuGet p
 
 This is a simple tool, but if you find a bug or have an idea for a new feature, please open an **[Issue](https://github.com/nachomonereo/DrawOnShape/issues)** on this repository. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
