@@ -1,0 +1,16 @@
+# Visual Studio & Rider
+.vs/
+.idea/
+*.suo
+*.user
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Packages
+packages/
+*.nupkg
+
+# User-specific files
+*.DS_Store
