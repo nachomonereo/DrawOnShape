@@ -4,7 +4,7 @@
 
 A simple and intuitive plugin for Rhino 8 that allows you to draw smooth, interpolated curves directly onto any SubD, Mesh, or Polysurface.
 
-![Demo GIF of DrawOnShape in action](https://github.com/nachomonereo/DrawOnShape/blob/main/drawonshape.gif?raw=true)
+![drawonshape](https://github.com/user-attachments/assets/9643027c-4ca7-4048-9379-673700ad93fc)
 
 ## Overview
 
